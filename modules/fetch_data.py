@@ -12,7 +12,7 @@ def fetch_data(circuits,start,end,forward):
     from modules.fetch_data import *
     
     A function for data acquisition from REST-API. 
-    At the moment, the function is designed and implemented for fetching Forchem's data.
+    At the moment, the function is designed and implemented for fetching ---'s data.
     At first there have to define the URL path for REST and datanodes of which you want data.
     
     The function creater folders for every circuit and pushes csv files into them.
