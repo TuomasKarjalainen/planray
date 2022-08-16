@@ -13,8 +13,8 @@ config.gpu_options.allow_growth = True
 session = tf.compat.v1.Session(config=config)
 from sklearn.model_selection import train_test_split
 
-from Moduulit.data_preprocess import *
-from Moduulit.features import tunnusluvut
+from modules.data_preprocess import *
+from modules.features import tunnusluvut
 
 """Author: tuomas karjalainen"""
 
