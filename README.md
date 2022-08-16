@@ -1,8 +1,5 @@
 # Industrial electric trace heating data
-Scripts for the self-made data pipeline including data fetch from REST-API, raw data preprocess, feature engineering, online database (MariaDB) implementation over SSH-connection. After data process and feature engineering, the target feature is predicted with two different types of neural networks: fully connected (FC) and 2-dimensional convolution NN (2D-CNN). 
-
-
-and neural network planning and implementation for regression.
+Scripts for the self-made data pipeline including data fetch from REST-API, raw data preprocess, feature engineering, online database (MariaDB) implementation over SSH-connection. After data process and feature engineering, the target feature is predicted with two different types of neural networks: fully connected (FC) regression neural network and 2-dimensional convolution NN (2D-CNN). 
 
 All scripts have a docstring documentation with a brief description of their purpose and parameters.  
 
