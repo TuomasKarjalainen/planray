@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 from Moduulit.data_preprocess import *
 from Moduulit.features import tunnusluvut
 
-""Author: tuomas karjalainen"""
+"""Author: tuomas karjalainen"""
 
 """
 -----------------------
