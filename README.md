@@ -11,6 +11,7 @@ The document contains, for example, data analysis and images, further developmen
 ## Model's Accuracy
 
 ![image](https://user-images.githubusercontent.com/91312571/185051492-8eb29ac3-5ad3-49f7-9784-606fb7b5802d.png)
+
 *Model's accuracy for data it hasn't seen before*
 
 Mean absolute error (MAE): `0.0672`
