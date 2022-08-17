@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import glob
 import statistics
 
+# import ssh-connector for pushing data to database!
 from modules import ssh_connector 
 
 """Author: tuomas karjalainen"""
