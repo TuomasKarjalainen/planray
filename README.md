@@ -7,3 +7,10 @@ All scripts have a docstring documentation with a brief description of their pur
 
 There is also **documentation** in Finnish for this, which is not publicly available. 
 The document contains, for example, data analysis and images, further development ideas, architecture description, and analysis of the results of machine learning methods. 
+
+## Model's Accuracy
+
+![image](https://user-images.githubusercontent.com/91312571/185051492-8eb29ac3-5ad3-49f7-9784-606fb7b5802d.png)
+*Model's accuracy for data it hasn't seen before*
+
+Mean absolute error (MAE): `0.0672`
