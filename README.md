@@ -5,7 +5,8 @@ All scripts have a docstring documentation with a brief description of their pur
 
 ![pipeline](https://user-images.githubusercontent.com/91312571/185053006-bf1b71bf-c4f7-474b-a932-270abf1d851f.jpg)
 
---
+---
+
 There is also **documentation** in Finnish for this, which is not publicly available. 
 The document contains, for example, data analysis and images, further development ideas, architecture description, and analysis of the results of machine learning methods. 
 
