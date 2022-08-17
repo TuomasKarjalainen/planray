@@ -61,7 +61,7 @@ def fetch_hours(main_path='../Datat/*',
     ------------
     NOTE: Check module import in your case
     
-    from Moduulit.data_preprocess import *
+    from modules.data_preprocess import *
 
     dataframes = fetch_hours(main_path='./Datat/*',
                              name_folder='tunti_data',
