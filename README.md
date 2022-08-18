@@ -11,5 +11,6 @@ The document contains, for example, data analysis and images, further developmen
 ## Model's Accuracy
 - The model's accuracy for data it hasn't seen before
 ![image](https://user-images.githubusercontent.com/91312571/185051492-8eb29ac3-5ad3-49f7-9784-606fb7b5802d.png)
-- The model predicts the power of the heating circuit (kWh)
+- The model predicts the power (kWh) of the heating circuit - Y-axis
+- Number of samples - X-axis
 - Mean absolute error (MAE): `0.0672`
