@@ -9,7 +9,10 @@ There is also **documentation** in Finnish for this, which is not publicly avail
 The document contains, for example, data analysis and images, further development ideas, architecture description, and analysis of the results of machine learning methods. 
 
 ## Model's Accuracy
-- The model's accuracy for data it hasn't seen before
+- Testdata:
+![image](https://user-images.githubusercontent.com/91312571/186219073-47ffc0bd-6891-4644-a0e2-aad54ce436f5.png)
+
+- The model's accuracy for data it hasn't seen before:
 ![image](https://user-images.githubusercontent.com/91312571/185051492-8eb29ac3-5ad3-49f7-9784-606fb7b5802d.png)
 - The model predicts the power (kWh) of the heating circuit - Y-axis
 - Number of samples - X-axis
